@@ -25,7 +25,7 @@
 
 1. Projeyi klonlayın:
    ```bash
-   git clone https://github.com/yourusername/team-management-app.git
+   git clone https://github.com/Alperenhks/team-managment.git
    cd team-management-app
    ```
 
